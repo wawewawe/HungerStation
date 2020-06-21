@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="4358" started-at="2020-06-09T08:51:25Z" finished-at="2020-06-09T08:51:29Z">
+    <groups>
+    </groups>
+    <test name="HungerStation Assessment" duration-ms="4358" started-at="2020-06-09T08:51:25Z" finished-at="2020-06-09T08:51:29Z">
+      <class name="Controller">
+        <test-method status="PASS" signature="prepareAPIRequests()[pri:0, instance:Controller@61d47554]" name="prepareAPIRequests" duration-ms="4112" started-at="2020-06-09T08:51:25Z" finished-at="2020-06-09T08:51:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prepareAPIRequests -->
+      </class> <!-- Controller -->
+    </test> <!-- HungerStation Assessment -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
